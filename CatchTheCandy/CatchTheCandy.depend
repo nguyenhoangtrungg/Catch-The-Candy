@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1621597752 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"game_map.h"
+	"ThreatsObject.h"
+	"TextObject.h"
+	"PlayerPower.h"
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\baseobject.cpp
+	"BaseObject.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\baseobject.h
+	"CommonFunc.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\commonfunc.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<windows.h>
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\bulletobject.cpp
+	"BulletObject.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\bulletobject.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\commonfunc.cpp
+	"CommonFunc.h"
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\game_map.cpp
+	"game_map.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\mainobject.cpp
+	"MainObject.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<vector>
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\playerpower.cpp
+	"PlayerPower.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\playerpower.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\textobject.cpp
+	"TextObject.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\textobject.h
+	"CommonFunc.h"
+
+1621597184 source:c:\users\admin\desktop\catch-the-candy\catchthecandy\threatsobject.cpp
+	"ThreatsObject.h"
+
+1621597184 c:\users\admin\desktop\catch-the-candy\catchthecandy\threatsobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
